@@ -1,5 +1,13 @@
 *.class
 
+# Eclipse Files #
+.project
+.metadata
+.metadata/*
+.bin
+.bin/*
+.classpath
+
 # Package Files #
 *.jar
 *.war
