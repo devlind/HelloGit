@@ -10,6 +10,8 @@ public class HelloGit {
 		System.out.println("Rebase change #1");
 		System.out.println("Rebase change #2");
 		System.out.println("Rebase change #3");
+		
+		System.out.println("Another change happening at the same time");
 	}
 	
 }
