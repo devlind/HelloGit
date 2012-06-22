@@ -6,7 +6,7 @@ public class HelloGit {
 		System.out.println("Hello Git!!");
 		System.out.println("Added this change in master only");
 		
-		System.out.println("Added this change after rebase_branch commits");
+		System.out.println("Rebase change #1");
 	}
 	
 }
