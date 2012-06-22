@@ -19,6 +19,10 @@ public class HelloGit {
 		System.out.println("Rebase change #7");
 		System.out.println("Rebase change #8");
 		System.out.println("Rebase change #9");
+		
+		System.out.println("Rebase change #10");
+		System.out.println("Rebase change #11");
+		System.out.println("Rebase change #12");
 	}
 	
 }
