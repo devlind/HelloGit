@@ -7,7 +7,6 @@ public class HelloGit {
 		System.out.println("Added this change in master only");
 
 		System.out.println("Added this other change after rebase_branch commits");
-		
 		System.out.println("Rebase change #1");
 		System.out.println("Rebase change #2");
 		System.out.println("Rebase change #3");
@@ -23,6 +22,9 @@ public class HelloGit {
 		System.out.println("Rebase change #10");
 		System.out.println("Rebase change #11");
 		System.out.println("Rebase change #12");
+		System.out.println("Another change happening at the same time");
+		
+		System.out.println("Made changes in parallel with rebase 7, 8, 9");
 	}
 	
 }
