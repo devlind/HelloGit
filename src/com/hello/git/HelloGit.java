@@ -27,6 +27,12 @@ public class HelloGit {
 		System.out.println("Made changes in parallel with rebase 7, 8, 9");
 		
 		System.out.println("Rebase change #13");
+		
+		System.out.println("another change #1");
+		
+		System.out.println("another change #2");
+		
+		System.out.println("another change #3");
 	}
 	
 }
